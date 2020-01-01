@@ -23,7 +23,7 @@
     "express-validator": "^5.3.1",
     "font-awesome": "^4.7.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.5.11"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "concurrently": "^4.1.2",
